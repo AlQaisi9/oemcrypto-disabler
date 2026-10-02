@@ -1,0 +1,7 @@
+id=alqaisi9_oemcrypto_fallback
+name=OEMCrypto Disabler by alqaisi9
+version=v1.0
+versionCode=1
+author=Mahmood AlQaisi (@alqaisi9)
+description=Systemless OEMCrypto fallback for arm64 devices with /vendor/lib64/liboemcrypto.so. May lower Widevine security and playback quality.
+updateJson=https://raw.githubusercontent.com/AlQaisi9/oemcrypto-disabler/main/update.json
